@@ -1,2 +1,2 @@
 #Blogs
-this is asimple layout of a blog wesite
+this is a simple layout of a blog wesite
